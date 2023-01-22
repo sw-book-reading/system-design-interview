@@ -177,6 +177,8 @@ Q. 109p. figure 6-15 버킷별로 해시값을 계산한다는 게 어떤 의미
 - ID 가 1씩 증가한다고 가정하면 다음에 쓸 수 있는 단축 URL 이 무엇인지 쉽게 알 수 있어 보안상 취약
 
 
-
+---
+- vector clock
+- Q. scheduler heartbeat 처리 코드?
 
 
