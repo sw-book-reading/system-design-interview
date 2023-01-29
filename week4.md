@@ -136,3 +136,13 @@
 	- 알림 생성 과정을 단순화하고 알림 내용 일관성 유지
 - 모니터링, 추적 시스템 추가
 
+
+---
+- Q. robots.txt
+	- npg.nicepay.co.kr
+- Q. Server Side Rendering
+- Crawling bot IP 가 추가되었을 때 방화벽에 이 IP 접근이 막혔던 경험 ...
+	- 검색했을 때 검색이 잘 안 된다. 
+- leetcode
+- develop
+- 스터디
